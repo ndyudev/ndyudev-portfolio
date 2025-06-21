@@ -1,3 +1,22 @@
+# 👨‍💻 Chau Nhat Duy | ndyudev
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73995275/222146888-2ac7f3cc-a14b-4b98-9bd2-16fa99ea11f8.png" width="200"/>
+</div>
+
+<p align="center">
+  <b>Web Developer | Fullstack | UI/UX Enthusiast</b><br/>
+  <i>"Không ngừng học hỏi, sáng tạo và chia sẻ giá trị cho cộng đồng."</i>
+</p>
+
+<!-- Date String -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-2024%2F12%2F19-blue?style=for-the-badge&logo=calendar"/>
+  <img src="https://img.shields.io/badge/Time-12:00%20PM-green?style=for-the-badge&logo=clock"/>
+</p>
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
